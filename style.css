@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#app{
+    background-color: #1D2D3C;
+    height: 100vh;
+}
+header{
+    height: 60px;
+    background-color: black;
+}
+.card{
+    background-color: #112030 !important;
+    color: white;
+    cursor: pointer;
+}
